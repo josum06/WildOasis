@@ -29,9 +29,9 @@ function AppLayout() {
        <Header/>
        <Sidebar/>
        <Main>
-       <Container>
-       <Outlet />
-       </Container>
+          <Container>
+             <Outlet />
+          </Container>`
        </Main>
     </StyledAppLayout>
   )
