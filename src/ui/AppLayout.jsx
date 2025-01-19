@@ -31,7 +31,7 @@ function AppLayout() {
        <Main>
           <Container>
              <Outlet />
-          </Container>`
+          </Container>
        </Main>
     </StyledAppLayout>
   )
