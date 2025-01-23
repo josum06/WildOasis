@@ -11,6 +11,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
      onReset={() => window.location.replac("/")}
     >
      <App /> 
+
     </ErrorBoundary>
   </React.StrictMode>
 )

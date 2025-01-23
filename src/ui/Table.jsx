@@ -29,13 +29,13 @@ const StyledHeader = styled(CommonRow)`
   color: var(--color-grey-600);
 `;
 
-const StyledRow = styled(CommonRow)`
-  padding: 1.2rem 2.4rem;
+// const StyledRow = styled(CommonRow)`
+//   padding: 1.2rem 2.4rem;
 
-  &:not(:last-child) {
-    border-bottom: 1px solid var(--color-grey-100);
-  }
-`;
+//   &:not(:last-child) {
+//     border-bottom: 1px solid var(--color-grey-100);
+//   }
+// `;
 
 const StyledBody = styled.section`
   margin: 0.4rem 0;

@@ -3,7 +3,6 @@ import styled from "styled-components";
 import Spinner from "./Spinner";
 import { useNavigate } from "react-router-dom";
 import { useEffect } from "react";
-import { isAuthApiError } from "@supabase/supabase-js";
 
 
 const FullPage = styled.div`
